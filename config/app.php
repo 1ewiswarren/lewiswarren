@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://lewiswarren.co.uk'),
+    'url' => env('APP_URL', 'https://lewiswarren.co.uk'),
 
     'asset_url' => env('ASSET_URL'),
 
