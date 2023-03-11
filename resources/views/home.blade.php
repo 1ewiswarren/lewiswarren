@@ -229,7 +229,7 @@
                     <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-1password.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="1Password" alt="1Password App Icon"/>
                     <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-github.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="GitHub Desktop" alt="GitHub Desktop App Icon"/>
                     <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-plex.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="Plex" alt="Plex Media Server App Icon"/>
-                    <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-cleanShot.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="CleanShot" alt="CleanShot App Icon"/>
+                    <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-cleanshot.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="CleanShot" alt="CleanShot App Icon"/>
                     <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/appicon-typora.webp') }}" class="w-56 h-56 relative hover:-translate-y-16 transition-transform ease-in shadow-lg" title="Typora" alt="Typora App Icon"/>
                 </div>
             </div>
