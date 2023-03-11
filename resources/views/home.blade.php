@@ -36,14 +36,30 @@
                     <!-- button -->
                     <div class="h-48 p-1 border border-white/12 w-max items-center rounded-full">
                         <a href="https://www.notion.so/Lewis-Warren-e1d45d2cedc940269a57283ee9fccbb5" target="_blank" class="text-14 text-white/80 font-light bg-white/2 rounded-full h-full px-16 inline-flex items-center shadow-2xl hover:bg-white/4 hover:shadow-purple-500/40">
-                        <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/svg/icon-file.svg') }}" class="mr-12" alt="icon"/>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none">
+                            <path fill="url(#paint0_linear_105_1181)" d="M9.75 1.695v3.097c0 .675.008.833.158 1.125.142.278.367.51.652.653.293.15.45.157 1.125.157h3.098c.412 0 .75-.337.75-.75 0-.42-.338-.75-.75-.75h-3.105c-.375 0-.465-.007-.458 0l-.007-.007V1.665c0-.42-.338-.75-.75-.75-.42 0-.75.33-.75.75l.037.03Zm.75 10.297H6c-.42 0-.75.33-.75.75 0 .413.33.75.75.75h4.5c.413 0 .75-.337.75-.75 0-.42-.337-.75-.75-.75Zm1.5-3H6c-.42 0-.75.33-.75.75 0 .413.33.75.75.75h6c.413 0 .75-.337.75-.75 0-.42-.337-.75-.75-.75Zm2.25-1.515v5.408c0 1.418-.03 1.763-.165 2.025a1.54 1.54 0 0 1-.66.652c-.27.136-.607.158-2.032.158h-4.8c-1.425 0-1.77-.03-2.033-.165a1.517 1.517 0 0 1-.66-.66c-.142-.27-.165-.607-.165-2.032v-7.8c0-1.426.023-1.77.158-2.033.142-.285.367-.518.652-.66.263-.143.6-.165 2.025-.165h2.408c.615 0 .757 0 .907.037.15.03.293.09.428.173.015.007.03.022.052.03.113.075.225.18.615.577l2.385 2.385c.435.435.533.54.608.668.075.127.142.277.172.427.03.143.038.285.038.908l.067.067Zm1.5 0c0-.757-.015-.952-.09-1.26a3.05 3.05 0 0 0-.36-.87c-.172-.277-.3-.42-.832-.952l-2.393-2.393c-.465-.465-.6-.592-.817-.742-.053-.038-.098-.068-.143-.098a2.85 2.85 0 0 0-.87-.36c-.315-.075-.502-.09-1.26-.09H6.57c-1.732 0-2.137.03-2.715.323A2.946 2.946 0 0 0 2.543 2.34c-.3.57-.33.982-.33 2.707v7.8c0 1.726.03 2.13.322 2.708.285.563.743 1.02 1.305 1.305.57.293.983.323 2.708.323h4.8c1.725 0 2.13-.038 2.707-.33a3.022 3.022 0 0 0 1.305-1.313c.293-.577.323-.99.323-2.715V7.41l.067.067Z"/>
+                            <defs>
+                                <linearGradient id="paint0_linear_105_1181" x1="2.213" x2="15.747" y1="8.947" y2="8.721" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#fff" stop-opacity=".8"/>
+                                <stop offset="1" stop-color="#fff" stop-opacity=".4"/>
+                                </linearGradient>
+                            </defs>
+                        </svg>
                             Resume
                         </a>
                     </div>
                     <!-- button -->
                     <div class="h-48 p-1 bg-gradient-to-b from-white/20 to-white/8 w-max items-center rounded-full shadow-default">
                         <a href="https://form.typeform.com/to/fObUcyQl" class="text-14 text-white/90 font-light rounded-full h-full bg-[#25222A] px-16 inline-flex items-center shadow-2xl hover:bg-[#2D2934] hover:shadow-blue/40 transition">
-                        <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/svg/icon-message.svg') }}" class="mr-12" alt="icon"/>
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none">
+                            <path fill="url(#paint0_linear_105_1173)" d="M5.625 9.75h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75h-.008c-.42 0-.75.33-.75.75 0 .412.33.75.75.75ZM9 9.75h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75H9c-.42 0-.75.33-.75.75 0 .412.33.75.75.75Zm3.375 0h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75h-.008c-.42 0-.75.33-.75.75 0 .412.33.75.75.75ZM9 16.5c4.14 0 7.5-3.36 7.5-7.5 0-4.147-3.36-7.5-7.5-7.5A7.493 7.493 0 0 0 1.5 9c0 .975.188 1.928.547 2.82.053.127.068.172.068.165l-.008-.008c-.007-.007-.007.015-.03.136l-.45 2.662c-.097.54-.105.652.023.938.113.262.323.472.585.585.285.12.39.112.938.022l2.662-.45a.883.883 0 0 0 .135-.03c-.007-.008.03.008.165.068.885.36 1.838.547 2.82.547L9 16.5ZM9 15a6.024 6.024 0 0 1-2.258-.443c-.247-.104-.292-.12-.404-.142a1.274 1.274 0 0 0-.33-.037c-.12 0-.173.007-.39.037l-2.67.443a4.71 4.71 0 0 0-.263.037c.022-.008.075 0 .157.037a.38.38 0 0 1 .196.195c.03.075.037.128.037.158 0-.045.007-.098.037-.262l.443-2.67c.03-.226.037-.278.037-.39a2.337 2.337 0 0 0-.037-.33 2.437 2.437 0 0 0-.143-.405A5.998 5.998 0 0 1 8.97 2.97c3.307-.001 6 2.684 6 5.999 0 3.307-2.693 6-6 6L9 15ZM5.25 9c0-.21.165-.375.375-.375.202 0 .375.165.375.375a.381.381 0 0 1-.375.375A.376.376 0 0 1 5.25 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125C5.003 7.875 4.5 8.377 4.5 9c0 .615.503 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125Zm1.875 0c0-.21.165-.375.375-.375.203 0 .375.165.375.375A.381.381 0 0 1 9 9.375.376.376 0 0 1 8.625 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125-.623 0-1.125.502-1.125 1.125 0 .615.502 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125ZM12 9c0-.21.165-.375.375-.375.203 0 .375.165.375.375a.381.381 0 0 1-.375.375A.376.376 0 0 1 12 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125-.623 0-1.125.502-1.125 1.125 0 .615.502 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125Z"/>
+                            <defs>
+                                <linearGradient id="paint0_linear_105_1173" x1="1.5" x2="16.494" y1="9" y2="8.695" gradientUnits="userSpaceOnUse">
+                                <stop stop-color="#fff" stop-opacity=".8"/>
+                                <stop offset="1" stop-color="#fff" stop-opacity=".4"/>
+                                </linearGradient>
+                            </defs>
+                        </svg>
                             Get In Touch
                         </a>
                     </div>
@@ -180,7 +196,9 @@
                     <div class="flex flex-col gap-16">
                         <div class="w-full flex items-center justify-between">
                             <h3 class="text-18">SpinupWP</h3>
-                            <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/svg/icon-external.svg') }}" alt="icon"/>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
+                                <path fill="#1371FF" d="m6.417 14.75 8.333-8.333a.84.84 0 0 0 0-1.184.825.825 0 0 0-1.183 0l-8.334 8.334a.815.815 0 0 0 0 1.175.83.83 0 0 0 1.175 0l.009.008Zm7.741-9.758H5.825a.825.825 0 0 0-.833.833.83.83 0 0 0 .833.833h8.333a.836.836 0 0 0 .834-.833.83.83 0 0 0-.834-.833Zm-.833.833v8.333a.83.83 0 0 0 .833.834.836.836 0 0 0 .834-.834V5.825a.83.83 0 0 0-.834-.833.825.825 0 0 0-.833.833Z"/>
+                            </svg>
                         </div>
                         <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">SpinupWP is a modern cloud server control panel designed to manage WordPress sites. I designed and built the new brand and marketing site using TailwindCSS.</p> 
                     </div>              
@@ -191,7 +209,9 @@
                     <div class="flex flex-col gap-16">
                         <div class="w-full flex items-center justify-between">
                             <h3 class="text-18">DeploymentHawk</h3>
-                            <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/svg/icon-external.svg') }}" alt="icon"/>
+                            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none">
+                                <path fill="#1371FF" d="m6.417 14.75 8.333-8.333a.84.84 0 0 0 0-1.184.825.825 0 0 0-1.183 0l-8.334 8.334a.815.815 0 0 0 0 1.175.83.83 0 0 0 1.175 0l.009.008Zm7.741-9.758H5.825a.825.825 0 0 0-.833.833.83.83 0 0 0 .833.833h8.333a.836.836 0 0 0 .834-.833.83.83 0 0 0-.834-.833Zm-.833.833v8.333a.83.83 0 0 0 .833.834.836.836 0 0 0 .834-.834V5.825a.83.83 0 0 0-.834-.833.825.825 0 0 0-.833.833Z"/>
+                            </svg>
                         </div>
                         <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">The all-in-one site deployment monitoring tool. Receive a Lighthouse report each time you deploy code to your site, gaining valuable insights to boost speed & performance.</p> 
                     </div>              
@@ -277,7 +297,15 @@
             <!-- button -->
             <div class="h-56 p-1 bg-gradient-to-b from-white/20 to-white/8 w-max items-center rounded-full shadow-default">
                 <a href="https://form.typeform.com/to/fObUcyQl" class="text-18 text-white/90 font-regular rounded-full h-full bg-[#25222A] rounded-full px-24 inline-flex items-center shadow-2xl hover:bg-[#2D2934] hover:shadow-blue/40 transition">
-                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/svg/icon-message.svg') }}" class="mr-12" alt="icon"/>
+                <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" fill="none">
+                    <path fill="url(#paint0_linear_105_1173)" d="M5.625 9.75h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75h-.008c-.42 0-.75.33-.75.75 0 .412.33.75.75.75ZM9 9.75h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75H9c-.42 0-.75.33-.75.75 0 .412.33.75.75.75Zm3.375 0h.008c.412 0 .75-.338.75-.75 0-.42-.338-.75-.75-.75h-.008c-.42 0-.75.33-.75.75 0 .412.33.75.75.75ZM9 16.5c4.14 0 7.5-3.36 7.5-7.5 0-4.147-3.36-7.5-7.5-7.5A7.493 7.493 0 0 0 1.5 9c0 .975.188 1.928.547 2.82.053.127.068.172.068.165l-.008-.008c-.007-.007-.007.015-.03.136l-.45 2.662c-.097.54-.105.652.023.938.113.262.323.472.585.585.285.12.39.112.938.022l2.662-.45a.883.883 0 0 0 .135-.03c-.007-.008.03.008.165.068.885.36 1.838.547 2.82.547L9 16.5ZM9 15a6.024 6.024 0 0 1-2.258-.443c-.247-.104-.292-.12-.404-.142a1.274 1.274 0 0 0-.33-.037c-.12 0-.173.007-.39.037l-2.67.443a4.71 4.71 0 0 0-.263.037c.022-.008.075 0 .157.037a.38.38 0 0 1 .196.195c.03.075.037.128.037.158 0-.045.007-.098.037-.262l.443-2.67c.03-.226.037-.278.037-.39a2.337 2.337 0 0 0-.037-.33 2.437 2.437 0 0 0-.143-.405A5.998 5.998 0 0 1 8.97 2.97c3.307-.001 6 2.684 6 5.999 0 3.307-2.693 6-6 6L9 15ZM5.25 9c0-.21.165-.375.375-.375.202 0 .375.165.375.375a.381.381 0 0 1-.375.375A.376.376 0 0 1 5.25 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125C5.003 7.875 4.5 8.377 4.5 9c0 .615.503 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125Zm1.875 0c0-.21.165-.375.375-.375.203 0 .375.165.375.375A.381.381 0 0 1 9 9.375.376.376 0 0 1 8.625 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125-.623 0-1.125.502-1.125 1.125 0 .615.502 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125ZM12 9c0-.21.165-.375.375-.375.203 0 .375.165.375.375a.381.381 0 0 1-.375.375A.376.376 0 0 1 12 9Zm1.5 0c0-.623-.51-1.125-1.125-1.125-.623 0-1.125.502-1.125 1.125 0 .615.502 1.125 1.125 1.125.615 0 1.125-.51 1.125-1.125Z"/>
+                    <defs>
+                        <linearGradient id="paint0_linear_105_1173" x1="1.5" x2="16.494" y1="9" y2="8.695" gradientUnits="userSpaceOnUse">
+                        <stop stop-color="#fff" stop-opacity=".8"/>
+                        <stop offset="1" stop-color="#fff" stop-opacity=".4"/>
+                        </linearGradient>
+                    </defs>
+                </svg>
                     Get In Touch
                 </a>
             </div>
