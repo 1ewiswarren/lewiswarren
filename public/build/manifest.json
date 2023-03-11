@@ -220,5 +220,17 @@
     "file": "assets/app-4ed993c7.js",
     "isEntry": true,
     "src": "resources/js/app.js"
+  },
+  "resources/svg/icon-external.svg": {
+    "file": "assets/icon-external-0c941d33.svg",
+    "src": "resources/svg/icon-external.svg"
+  },
+  "resources/svg/icon-file.svg": {
+    "file": "assets/icon-file-f6f9b3cb.svg",
+    "src": "resources/svg/icon-file.svg"
+  },
+  "resources/svg/icon-message.svg": {
+    "file": "assets/icon-message-f00d1eea.svg",
+    "src": "resources/svg/icon-message.svg"
   }
 }
