@@ -293,7 +293,7 @@
                 </div>
             </div>
             <!-- heading -->
-            <h1 class="text-32 sm:text-56 font-medium max-w-560 text-transparent bg-clip-text bg-gradient-white-1 text-center leading-normal sm:leading-tight">I’m only one press of a button away...</h1>
+            <h1 class="text-32 sm:text-56 font-medium max-w-560 text-transparent bg-clip-text bg-gradient-white-1 text-center leading-normal sm:leading-tight">I’m only one press of a button&nbsp;away...</h1>
             <!-- button -->
             <div class="h-56 p-1 bg-gradient-to-b from-white/20 to-white/8 w-max items-center rounded-full shadow-default">
                 <a href="https://form.typeform.com/to/fObUcyQl" class="text-18 text-white/90 font-regular rounded-full h-full bg-[#25222A] rounded-full px-24 inline-flex items-center shadow-2xl hover:bg-[#2D2934] hover:shadow-blue/40 transition">
@@ -316,8 +316,8 @@
         <footer class="w-full max-w-fixed m-auto flex flex-col items-center pt-80 sm:pt-160 group relative overflow-hidden px-16 xl:px-0">
             <div class="w-max relative flex items-baseline gap-48">
                 <p class="hidden md:block text-24 text-paragraph/50 w-[18rem] text-center absolute right-440 rotate-[-9deg] font-script">My cats are always spying...</p>
-                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/cat-molly.webp') }}" class="h-96 sm:h-[12.4rem] relative group-hover:translate-y-160 transition duration-300 ease-in-out" alt="cat" width="314" height="252"/>
-                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/cat-bourbon.webp') }}" class="h-96 sm:h-[12.4rem] relative group-hover:translate-y-160 transition duration-700 ease-in-out" alt="cat" width="364" height="252"/>
+                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/cat-molly.webp') }}" class="w-[12.1rem] sm:w-[15.7rem] h-96 sm:h-[12.4rem] relative group-hover:translate-y-160 transition duration-300 ease-in-out" alt="cat" width="314" height="252"/>
+                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/cat-bourbon.webp') }}" class="w-[13.8rem] sm:w-[17.9rem] h-96 sm:h-[12.4rem] relative group-hover:translate-y-160 transition duration-700 ease-in-out" alt="cat" width="364" height="252"/>
             </div>
         </footer>
         
