@@ -29,7 +29,9 @@
         <nav class="w-full h-88 flex">
             <div class="w-full max-w-[160rem] flex items-center m-auto px-16 justify-between">
                 <!-- avatar -->
-                <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/avatar.webp') }}" class="w-48 h-48 sahdow-default" alt="avatar"/>
+                <a href="/">
+                    <img src="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/webp/avatar.webp') }}" class="w-48 h-48 sahdow-default" alt="avatar"/>
+                </a>
                 <div class="flex gap-12">
                     <!-- button -->
                     <div class="h-48 p-1 border border-white/12 w-max items-center rounded-full">
