@@ -20,19 +20,6 @@
     <meta property="og:title" content="Lewis Warren - Product Designer & Frontend Developer Portfolio">
     <meta property="og:description" content="The portfolio of Product Designer and Frontend Developer, Lewis Warren">
 
-    <!-- comment out opengraph code
-    <meta property="og:image" content="{{ \Illuminate\Support\Facades\Vite::asset('resources/images/opengraph-card.png') }}">
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@pixels4lyf">
-    -->
-
-    <!-- Default Fonts
-    <link rel="preconnect" href="https://fonts.bunny.net">
-    <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
-    -->
-
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
 </head>
