@@ -227,13 +227,13 @@
                     </div>              
                 </div>
                  <!-- project -->
-                <div class="w-full gap-24 flex flex-col h-full">
+                <div class="hidden md:flex w-full gap-24 flex-col h-full">
                     <div class="w-full h-full rounded-xl border border-dashed border-white/16 min-h-[16rem]"></div>
                     <div class="flex flex-col gap-16">
                         <div class="w-full flex items-center justify-between">
                             <h3 class="text-18">Coming Soon!</h3>
                         </div>
-                        <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">Nothing to see here, but I needed a grid of 4. Real Designer problems...</p> 
+                        <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">Nothing to see here, but I needed a grid of 4 for aesthetic reasons. Real Designer problems...</p> 
                     </div>              
                 </div>
             </div>
