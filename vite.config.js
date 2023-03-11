@@ -8,5 +8,10 @@ export default defineConfig({
             refresh: true,
         }),
     ],
-    extensions: ['.svg'],
+    resolve: {
+        alias: {
+          '@': '/src',
+        },
+        extensions: ['.svg'], // Add .svg extension here
+      },
 });
