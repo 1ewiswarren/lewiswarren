@@ -223,7 +223,7 @@
                         <div class="w-full flex items-center justify-between">
                             <h3 class="text-18">Missing (WIP Title)</h3>
                         </div>
-                        <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">A pixel art action-adventure game designed in Aseprite and built in Godot.</p> 
+                        <p class="text-14 font-body tracking-normal leading-10 text-paragraph/50">A pixel art action-adventure game designed in Aseprite and built using Godot.</p> 
                     </div>              
                 </div>
                  <!-- project -->
