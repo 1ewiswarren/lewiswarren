@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Lewis Warren - Design Engineer</title>
-    <meta name="description" content="The portfolio of Product Designer and Frontend Developer, Lewis Warren.">
+    <meta name="description"
+        content="The portfolio of Design Engineer, Product Designer and Frontend Developer, Lewis Warren.">
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -18,8 +19,8 @@
 
     <meta property="og:url" content="https://lewiswarren.co.uk">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Lewis Warren - Product Designer & Frontend Developer Portfolio">
-    <meta property="og:description" content="The portfolio of Product Designer and Frontend Developer, Lewis Warren">
+    <meta property="og:title" content="Lewis Warren - Design Engineer, Product Designer & Frontend Developer Portfolio">
+    <meta property="og:description" content="The portfolio of Design Engineer Lewis Warren">
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
@@ -84,7 +85,7 @@
         <!-- label -->
         <div class="h-40 p-1 bg-gradient-to-b from-blue/40 to-blue/25 w-max items-center rounded-md">
             <div class="bg-[#0F243D] px-12 flex items-center rounded-md h-full">
-                <h2 class="text-16 text-blue font-regular">Product Design & Frontend Development</h2>
+                <h2 class="text-16 text-blue font-regular">Design Engineer</h2>
             </div>
         </div>
         <!-- heading -->
