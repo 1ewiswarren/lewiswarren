@@ -85,7 +85,7 @@
         <!-- label -->
         <div class="h-40 p-1 bg-gradient-to-b from-blue/40 to-blue/25 w-max items-center rounded-md">
             <div class="bg-[#0F243D] px-12 flex items-center rounded-md h-full">
-                <h2 class="text-16 text-blue font-regular">Design Engineer & Product Designer s</h2>
+                <h2 class="text-16 text-blue font-regular">Design Engineer & Product Designer</h2>
             </div>
         </div>
         <!-- heading -->
