@@ -1,0 +1,53 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  font-size: 62.5%;
+  letter-spacing: 1px;
+  font-family: "sf-pro-display";
+}
+
+@font-face {
+  font-family: "sf-pro-display";
+  src: url("./fonts/SFProDisplay-Light.woff2") format("truetype-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: "sf-pro-display";
+  src: url("./fonts/SFProDisplay-Regular.woff2") format("truetype-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "sf-pro-display";
+  src: url("./fonts/SFProDisplay-Medium.woff2") format("truetype-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "inter";
+  src: url("./fonts/Inter-Regular.woff2") format("truetype-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "indie-flower";
+  src: url("./fonts/IndieFlower-Regular.woff2") format("truetype-variations");
+  font-display: swap;
+  font-style: normal;
+  font-weight: 500;
+}
